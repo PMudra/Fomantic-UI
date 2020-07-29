@@ -106,7 +106,6 @@ module.exports = {
 
     // behaviors
     'api',
-    'form',
     'state',
     'visibility'
   ],
